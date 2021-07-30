@@ -1,0 +1,40 @@
+.header-background{
+    background-color: #264653;
+    
+}
+
+.button-color{
+    background-color: #E76F51;
+    width: 168px;
+    height: 44px;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.heading{
+    font-weight: bolder;
+}
+
+.featured-bike{
+    width: 442px;
+    height: 93px;
+}
+
+.best-bike{
+    color: #E76F51;
+    font-weight: bold;
+}
+
+.bike-color{
+    filter: grayscale(100%);
+}
+
+.clients-say{
+    color: #E76F51;
+}
+
+.user-3 img{
+width: 280px;
+height: 250px;
+border-radius: 50%;
+}
