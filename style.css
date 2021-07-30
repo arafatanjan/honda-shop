@@ -38,3 +38,16 @@ width: 280px;
 height: 250px;
 border-radius: 50%;
 }
+
+
+.fa-star.filled{
+    color: #E77C40;
+}
+.fa-star.empty{
+     color: #264653; 
+     /* border: black;
+    border-color: black; */
+
+
+    
+}
